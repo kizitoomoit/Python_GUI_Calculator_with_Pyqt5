@@ -1,1 +1,1 @@
-# Python_GUI_Calculator_with_Pyqt5
+# GUI PYTHON CALCULATOR V1.0
